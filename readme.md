@@ -16,6 +16,15 @@ Based off of the default night theme for Typora.  Modified to fit my needs.  Hav
 
 # Sample images
 
-![sample 1](nightmod sample.png)
 
-![sample 2](formatting sample.png)
+
+![Readme](https://github.com/Mirith/Typora-nightmod-theme/blob/master/nightmod%20sample.png?raw=true "readme sample")
+
+
+
+ 
+
+
+
+![format](https://github.com/Mirith/Typora-nightmod-theme/blob/master/formatting%20sample.png?raw=true "formatting")
+
