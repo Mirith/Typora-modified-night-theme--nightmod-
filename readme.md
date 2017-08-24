@@ -12,4 +12,4 @@ You will need Typora installed on your computer, and the nightmod.css file in th
 
 ## nightmod.css
 
-Based off of the default night theme for Typora.  Modified to fit my needs.  
+Based off of the default night theme for Typora.  Modified to fit my needs.  Haven't touched most of the stuff past the first third of the file.  
